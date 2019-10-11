@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Poppins|Righteous&display=swap');
+
+#sideNav {
+    background: darkgoldenrod;
+    height: 120vh;
+}
+
+#mainContent {
+    padding-top: 1rem;
+    background: darkblue;
+    padding-left: 26em;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin-top: 50;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    padding-left: 0;
+    font-family: 'Lobster', cursive;
+    font-style: italic;
+}
+
+h1 {
+    color: darkgoldenrod;
+    font-family: 'Righteous', cursive;
+    font-size: 4em
+}
+
+#sideNav h2 {
+    color: darkblue;
+    padding-top: 20;
+    font-family: 'Righteous', cursive;
+}
+
+.c1 {
+    color: bisque;
+    font-family: 'Poppins', sans-serif;
+    font-style: oblique;
+
+}
+
+#mainContent h4 {
+    color: bisque;
+    font-family: 'Poppins', sans-serif;
+    font-style: oblique;
+    font-size: 20
+}
+
+#mainContent h3 {
+    font-family: 'Righteous', cursive;
+    color: darkgoldenrod
+}
+
+#mainContent h5 {
+    font-family: 'Righteous', cursive;
+    color: burlywood
+}
+
+.T1 {
+    font-family: 'Righteous', cursive;
+    color: burlywood
+}
+
+.T2 {
+    font-family: 'Lobster', cursive;
+    color: blanchedalmond
+}
+
+a {
+    color: black
+}
+
+#emoji {
+    font-size: 100;
+    padding-left: 10;
+    color: black
+}
+
+.far {
+    font-size: 100;
+    padding-left: 175;
+    color: midnightblue
+}
+
+.fab {
+    font-size: 100;
+    color: midnightblue
+}
+
+#beer {
+    font-size: 100;
+    padding-left: 175;
+    padding-top: 10;
+    color: black
+}
+
+.fas {
+    font-size: 125;
+    padding-left: 225;
+    padding-top: 10;
+    color: saddlebrown
+}
